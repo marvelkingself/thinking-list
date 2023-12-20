@@ -1,0 +1,38 @@
+.container{
+    height: 90vh;
+    width: 100% ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.border{
+    border: 2px solid black;
+    padding: 30px;
+    border-radius: 10px;
+}
+.cnt{
+    display: flex;
+    flex-direction: column;
+}
+.search{
+    width: 20rem;
+    height: 2rem;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+.center{
+    text-align: center ;
+    width: 20rem;
+    margin-top: 20px;
+}
+.borderTable{
+    border: 1px solid black;
+}
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+.jud{
+    text-align: end;
+    border: none;
+}
