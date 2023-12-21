@@ -1,3 +1,15 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.logo{
+    margin: 0px;
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+}
 .container{
     height: 90vh;
     width: 100% ;
